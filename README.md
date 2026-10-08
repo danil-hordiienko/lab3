@@ -1,1 +1,1 @@
-# Lab 2 - Data Representation & Querying
+# Lab 3: React(Props) - Representation & Querying
